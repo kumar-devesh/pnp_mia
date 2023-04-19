@@ -1,0 +1,14 @@
+vit-pytorch
+torch==1.11.0
+transformers
+opencv-python
+wandb
+rtpt
+pandas
+scipy
+fvcore
+facenet-pytorch
+pytorch-fid==0.2.1
+scikit-learn==0.24.2
+yapf
+numpy==1.21.0

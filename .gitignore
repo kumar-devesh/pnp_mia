@@ -1,0 +1,4 @@
+./pnp_attacks/wandb/**
+./pnp_attacks/target_models/
+./pnp_attacks/stylegan2-ada-pytorch/**
+./pnp_attacks/data/**
